@@ -42,3 +42,4 @@ E:\pliki\pobrane\Tutorial5\Tutorial4\Tutorial4\obj\Debug\net9.0\refint\Tutorial4
 E:\pliki\pobrane\Tutorial5\Tutorial4\Tutorial4\obj\Debug\net9.0\Tutorial4.pdb
 E:\pliki\pobrane\Tutorial5\Tutorial4\Tutorial4\obj\Debug\net9.0\Tutorial4.genruntimeconfig.cache
 E:\pliki\pobrane\Tutorial5\Tutorial4\Tutorial4\obj\Debug\net9.0\ref\Tutorial4.dll
+E:\pliki\pobrane\Tutorial5\Tutorial4\Tutorial4\obj\Debug\net9.0\Tutorial4.sourcelink.json
